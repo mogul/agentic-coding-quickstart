@@ -34,7 +34,7 @@ set -eu
 
 # release-please updates this version in release PRs. Release automation publishes
 # an install.sh asset for each release; the version pins the release it installs.
-DEFAULT_VERSION="0.1.0" # x-release-please-version
+DEFAULT_VERSION="4.0.1" # x-release-please-version
 
 RELEASE_BASE_URL="https://github.com/GSA-TTS/agentic-coding-quickstart/releases/download"
 SHA256SUMS_NAME="SHA256SUMS"

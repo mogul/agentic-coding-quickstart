@@ -17,7 +17,7 @@
 
 [CmdletBinding()]
 param(
-    [string]$Version = "0.1.0", # x-release-please-version
+    [string]$Version = "4.0.1", # x-release-please-version
     [string]$InstallDir = "",
     [string]$Source = "",
     [switch]$DryRun,
